@@ -5,3 +5,4 @@
 04-configs.patch
 06-exec.patch
 08-scripts.patch
+CVE-2019-19725.patch
